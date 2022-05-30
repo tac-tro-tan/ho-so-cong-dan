@@ -1,0 +1,370 @@
+{
+    "thongTinCaNhan": [
+        {
+        "cmnd": 883137342,
+        "ten": "Sherri Alabaster",
+        "ngaySinh": "5/4/2022",
+        "queQuan": "1479 Algoma Junction",
+        "gioiTinh": true,
+        "img": "http://dummyimage.com/234x100.png/cc0000/ffffff",
+        "quocTich": "Chlidonias leucopterus",
+        "danToc": "Tern, white-winged",
+        "soHoKhau": 1,
+        "ketHon": true,
+        "diaChi": "929 Bunker Hill Road"
+      }, {
+        "cmnd": 795856331,
+        "ten": "Justine Casero",
+        "ngaySinh": "8/11/2021",
+        "queQuan": "62728 Oneill Point",
+        "gioiTinh": false,
+        "img": "http://dummyimage.com/154x100.png/5fa2dd/ffffff",
+        "quocTich": "Tiliqua scincoides",
+        "danToc": "Skink, blue-tongued",
+        "soHoKhau": 2,
+        "ketHon": true,
+        "diaChi": "343 Londonderry Alley"
+      }, {
+        "cmnd": 542295180,
+        "ten": "Cass Dooney",
+        "ngaySinh": "1/8/2022",
+        "queQuan": "3931 Stoughton Plaza",
+        "gioiTinh": false,
+        "img": "http://dummyimage.com/231x100.png/5fa2dd/ffffff",
+        "quocTich": "Myiarchus tuberculifer",
+        "danToc": "Flycatcher, tyrant",
+        "soHoKhau": 1,
+        "ketHon": false,
+        "diaChi": "47808 Hayes Circle"
+      }, {
+        "cmnd": 125121036,
+        "ten": "Loree Heart",
+        "ngaySinh": "9/2/2021",
+        "queQuan": "8459 American Way",
+        "gioiTinh": false,
+        "img": "http://dummyimage.com/189x100.png/cc0000/ffffff",
+        "quocTich": "Bos frontalis",
+        "danToc": "Gaur",
+        "soHoKhau": 3,
+        "ketHon": true,
+        "diaChi": "7495 John Wall Pass"
+      }, {
+        "cmnd": 837817959,
+        "ten": "Kathryn Wikey",
+        "ngaySinh": "6/6/2021",
+        "queQuan": "47 Sommers Junction",
+        "gioiTinh": true,
+        "img": "http://dummyimage.com/102x100.png/ff4444/ffffff",
+        "quocTich": "Phoenicopterus ruber",
+        "danToc": "Flamingo, greater",
+        "soHoKhau": 3,
+        "ketHon": true,
+        "diaChi": "4510 Little Fleur Drive"
+      }, {
+        "cmnd": 160470477,
+        "ten": "Amata Brockway",
+        "ngaySinh": "11/23/2021",
+        "queQuan": "8 Clyde Gallagher Circle",
+        "gioiTinh": true,
+        "img": "http://dummyimage.com/202x100.png/ff4444/ffffff",
+        "quocTich": "Alcelaphus buselaphus caama",
+        "danToc": "Red hartebeest",
+        "soHoKhau": 2,
+        "ketHon": true,
+        "diaChi": "70697 Kensington Drive"
+      }, {
+        "cmnd": 625581654,
+        "ten": "Ly Da Costa",
+        "ngaySinh": "1/14/2022",
+        "queQuan": "38137 Magdeline Plaza",
+        "gioiTinh": false,
+        "img": "http://dummyimage.com/218x100.png/dddddd/000000",
+        "quocTich": "Libellula quadrimaculata",
+        "danToc": "Skimmer, four-spotted",
+        "soHoKhau": 2,
+        "ketHon": false,
+        "diaChi": "8 Vidon Lane"
+      }, {
+        "cmnd": 575341876,
+        "ten": "Alfonso Sygrove",
+        "ngaySinh": "12/4/2021",
+        "queQuan": "76812 Trailsway Park",
+        "gioiTinh": false,
+        "img": "http://dummyimage.com/248x100.png/ff4444/ffffff",
+        "quocTich": "Mazama americana",
+        "danToc": "Brocket, red",
+        "soHoKhau": 2,
+        "ketHon": false,
+        "diaChi": "87245 Mandrake Center"
+      }, {
+        "cmnd": 385387451,
+        "ten": "Consuela Goreisr",
+        "ngaySinh": "11/22/2021",
+        "queQuan": "0 Southridge Pass",
+        "gioiTinh": false,
+        "img": "http://dummyimage.com/130x100.png/dddddd/000000",
+        "quocTich": "Vanellus chilensis",
+        "danToc": "Lapwing, southern",
+        "soHoKhau": 1,
+        "ketHon": false,
+        "diaChi": "3112 Summerview Terrace"
+      }, {
+        "cmnd": 919235994,
+        "ten": "Hanson Slader",
+        "ngaySinh": "3/7/2022",
+        "queQuan": "326 Buell Alley",
+        "gioiTinh": true,
+        "img": "http://dummyimage.com/245x100.png/dddddd/000000",
+        "quocTich": "Catharacta skua",
+        "danToc": "Great skua",
+        "soHoKhau": 2,
+        "ketHon": false,
+        "diaChi": "2522 Autumn Leaf Alley"
+      }
+    ],
+
+    "dangNhap":[
+        {
+        "cmnd": 883137342,
+        "matKhau": 123
+      }, {
+        "cmnd": 795856331,
+        "matKhau": 123
+      }, {
+        "cmnd": 542295180,
+        "matKhau": 123
+      }, {
+        "cmnd": 125121036,
+        "matKhau": 123
+      }, {
+        "cmnd": 837817959,
+        "matKhau": 123
+      }, {
+        "cmnd": 160470477,
+        "matKhau": 123
+      }, {
+        "cmnd": 888396370,
+        "matKhau": 123
+      }, {
+        "cmnd": 797943723,
+        "matKhau": 123
+      }, {
+        "cmnd": 752189321,
+        "matKhau": 123
+      }, {
+        "cmnd": 881168230,
+        "matKhau": 123
+      }
+    ],
+
+    "tienAnTienSu":[
+        {
+        "id": 1,
+        "cmnd": 883137342,
+        "ngayViPham": "11/21/2021",
+        "loaiViPham": "video/x-mpeg",
+        "loiViPham": "Intracranial pressure monitoring"
+      }, {
+        "id": 2,
+        "cmnd": 883137342,
+        "ngayViPham": "2/21/2022",
+        "loaiViPham": "video/msvideo",
+        "loiViPham": "Microscopic examination of blood, culture"
+      }, {
+        "id": 3,
+        "cmnd": 883137342,
+        "ngayViPham": "1/5/2022",
+        "loaiViPham": "application/pdf",
+        "loiViPham": "Intra-abdominal manipulation of small intestine"
+      }, {
+        "id": 4,
+        "cmnd": 254129764,
+        "ngayViPham": "9/15/2021",
+        "loaiViPham": "application/excel",
+        "loiViPham": "Excision, destruction, or exclusion of left atrial appendage (LAA)"
+      }, {
+        "id": 5,
+        "cmnd": 122404588,
+        "ngayViPham": "6/20/2021",
+        "loaiViPham": "application/vnd.ms-powerpoint",
+        "loiViPham": "Microscopic examination of specimen from unspecified site, toxicology"
+      }, {
+        "id": 6,
+        "cmnd": 769989276,
+        "ngayViPham": "7/21/2021",
+        "loaiViPham": "video/avi",
+        "loiViPham": "Electrocardiogram"
+      }, {
+        "id": 7,
+        "cmnd": 690409609,
+        "ngayViPham": "5/16/2021",
+        "loaiViPham": "application/msword",
+        "loiViPham": "Continuous invasive mechanical ventilation for 96 consecutive hours or more"
+      }, {
+        "id": 8,
+        "cmnd": 281154859,
+        "ngayViPham": "6/9/2021",
+        "loaiViPham": "image/pjpeg",
+        "loiViPham": "Training in joint movements"
+      }, {
+        "id": 9,
+        "cmnd": 381558383,
+        "ngayViPham": "8/17/2021",
+        "loaiViPham": "audio/mpeg3",
+        "loiViPham": "Iridotomy with transfixion"
+      }, {
+        "id": 10,
+        "cmnd": 350387368,
+        "ngayViPham": "11/18/2021",
+        "loaiViPham": "video/x-msvideo",
+        "loiViPham": "Intra-abdominal manipulation of small intestine"
+      }
+    ],
+  
+    "soHoKhau":[
+        {
+        "id": 1,
+        "chuSoHoKhau": 883137342
+      }, {
+        "id": 2,
+        "chuSoHoKhau": 795856331
+      }, {
+        "id": 3,
+        "chuSoHoKhau": 125121036
+      }
+    ],
+
+    "thongTinCanBo":[
+      {
+      "cmnd": 970615153,
+      "ten": "Cyrill Lavrick",
+      "ngaySinh": "3/30/2022",
+      "gioiTinh": false,
+      "chucVu": "Traction of Chest Wall",
+      "diaChiCongTac": "Revision of pedicle-based dynamic stabilization device(s)",
+      "queQuan": "Replacement of R Up Eyelid with Autol Sub, Open Approach",
+      "ketHon": true,
+      "img": "http://dummyimage.com/225x100.png/5fa2dd/ffffff",
+      "quocTich": "Rev pedcl dyn stabil dev",
+      "idCanBo": 981084771,
+      "tieuSu": "Traction of Chest Wall. Introduction of Other Therapeutic Substance into Epidural Space, Percutaneous Approach"
+    }, {
+      "cmnd": 255757343,
+      "ten": "Mickie Ketchaside",
+      "ngaySinh": "9/16/2021",
+      "gioiTinh": false,
+      "chucVu": "Dilation of Right Eustachian Tube, Perc Endo Approach",
+      "diaChiCongTac": "Laparoscopic incidental appendectomy",
+      "queQuan": "Fusion of L Metacarpocarp Jt with Autol Sub, Open Approach",
+      "ketHon": false,
+      "img": "http://dummyimage.com/211x100.png/5fa2dd/ffffff",
+      "quocTich": "Lap incid appendectomy",
+      "idCanBo": 252849391,
+      "tieuSu": "Dilation of Right Eustachian Tube, Percutaneous Endoscopic Approach"
+    }, {
+      "cmnd": 963819242,
+      "ten": "Hewett Girhard",
+      "ngaySinh": "7/31/2021",
+      "gioiTinh": true,
+      "chucVu": "Introduce Oth Therap Subst in Epidural Space, Perc",
+      "diaChiCongTac": "Laparoscopic liver biopsy",
+      "queQuan": "Dilation of R Radial Art with 4 Drug-elut, Perc Approach",
+      "ketHon": true,
+      "img": "http://dummyimage.com/203x100.png/5fa2dd/ffffff",
+      "quocTich": "Laparoscopic liver bx",
+      "idCanBo": 389478860,
+      "tieuSu": "Introduction of Other Therapeutic Substance into Epidural Space, Percutaneous Approach"
+    }, {
+      "cmnd": 111784694,
+      "ten": "Sallyanne Rieme",
+      "ngaySinh": "5/2/2022",
+      "gioiTinh": true,
+      "chucVu": "Supplement Left Hand with Nonaut Sub, Open Approach",
+      "diaChiCongTac": "Open reduction of dislocation of ankle",
+      "queQuan": "Drainage of R Int Iliac Art with Drain Dev, Open Approach",
+      "ketHon": false,
+      "img": "http://dummyimage.com/130x100.png/5fa2dd/ffffff",
+      "quocTich": "Open reduc-ankle disloc",
+      "idCanBo": 913242399,
+      "tieuSu": "Supplement Left Hand with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "cmnd": 574820453,
+      "ten": "Ashly Dunniom",
+      "ngaySinh": "6/23/2021",
+      "gioiTinh": true,
+      "chucVu": "Insertion of Int Fix into R Orbit, Open Approach",
+      "diaChiCongTac": "Other destruction of lesion of large intestine",
+      "queQuan": "Revision of Infusion Device in GU Tract, Via Opening",
+      "ketHon": false,
+      "img": "http://dummyimage.com/121x100.png/5fa2dd/ffffff",
+      "quocTich": "Destruc lg bowel les NEC",
+      "idCanBo": 569809755,
+      "tieuSu": "Insertion of Internal Fixation Device into Right Orbit, Open Approach"
+    }, {
+      "cmnd": 325761656,
+      "ten": "Guinevere Vassbender",
+      "ngaySinh": "6/4/2021",
+      "gioiTinh": false,
+      "chucVu": "Replace of L Int Carotid with Nonaut Sub, Perc Endo Approach",
+      "diaChiCongTac": "Other repair of urinary stress incontinence",
+      "queQuan": "Measurement of Venous Pulse, Peripheral, Open Approach",
+      "ketHon": false,
+      "img": "http://dummyimage.com/240x100.png/ff4444/ffffff",
+      "quocTich": "Urin incontin repair NEC",
+      "idCanBo": 966832264,
+      "tieuSu": "Replacement of Left Internal Carotid Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "cmnd": 473484711,
+      "ten": "Rudy Keedwell",
+      "ngaySinh": "5/11/2021",
+      "gioiTinh": false,
+      "chucVu": "Drainage of Right Foot Vein, Perc Endo Approach, Diagn",
+      "diaChiCongTac": "Open biopsy of spleen",
+      "queQuan": "Removal of Nonaut Sub from R Acromioclav Jt, Open Approach",
+      "ketHon": false,
+      "img": "http://dummyimage.com/186x100.png/dddddd/000000",
+      "quocTich": "Open spleen biopsy",
+      "idCanBo": 914997718,
+      "tieuSu": "Drainage of Right Foot Vein, Percutaneous Endoscopic Approach, Diagnostic"
+    }, {
+      "cmnd": 312506526,
+      "ten": "Nettie Acomb",
+      "ngaySinh": "9/17/2021",
+      "gioiTinh": true,
+      "chucVu": "Removal of Infusion Device from Heart, Open Approach",
+      "diaChiCongTac": "Other repair of retinal detachment",
+      "queQuan": "Excision of Right Ankle Region, Percutaneous Approach, Diagn",
+      "ketHon": true,
+      "img": "http://dummyimage.com/169x100.png/5fa2dd/ffffff",
+      "quocTich": "Repair retina detach NEC",
+      "idCanBo": 467385353,
+      "tieuSu": "Removal of Infusion Device from Heart, Open Approach"
+    }, {
+      "cmnd": 859888348,
+      "ten": "Luce Dummigan",
+      "ngaySinh": "8/28/2021",
+      "gioiTinh": false,
+      "chucVu": "Revision of Drain Dev in L Tarsal Jt, Perc Endo Approach",
+      "diaChiCongTac": "Other conversion of cardiac rhythm",
+      "queQuan": "Supplement L Lg Intest with Synth Sub, Open Approach",
+      "ketHon": true,
+      "img": "http://dummyimage.com/148x100.png/dddddd/000000",
+      "quocTich": "Cardiac rhythm conv NEC",
+      "idCanBo": 607763519,
+      "tieuSu": "Revision of Drainage Device in Left Tarsal Joint, Percutaneous Endoscopic Approach"
+    }, {
+      "cmnd": 255879504,
+      "ten": "Bartlet Truin",
+      "ngaySinh": "4/29/2022",
+      "gioiTinh": true,
+      "chucVu": "Chiropractic Manipulation of Low Extrem, Extra-Articular",
+      "diaChiCongTac": "Suture of laceration of chest wall",
+      "queQuan": "Bypass Thor Aorta Asc to Pulm Trunk w Zooplastic, Perc Endo",
+      "ketHon": false,
+      "img": "http://dummyimage.com/203x100.png/5fa2dd/ffffff",
+      "quocTich": "Suture chest wall lacer",
+      "idCanBo": 995114588,
+      "tieuSu": "Chiropractic Manipulation of Lower Extremities, Extra-Articular"
+    }
+    ]
+}
