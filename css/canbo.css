@@ -1,0 +1,20 @@
+.box-width-1 {
+    width: 50rem;
+}
+.mauDen .modal-content{
+    background-color: #000;
+    color: #fff;
+}
+.divv{
+    padding: 20px;
+    margin: 3px;
+    font-size: x-large;
+    font-weight: 600;
+}
+.box2 {
+    text-align: left;
+    border: rgb(255, 255, 255) ridge 3px;
+    border-radius: 10px;
+    margin: 3px;
+    padding: 30px;
+}
